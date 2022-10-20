@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@mui/x-data-grid": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui/mui-x/blob/v5.17.7/docs/data/data-grid/overview/DataGridDemo.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "name": "m8pgg0",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
